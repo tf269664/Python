@@ -8,8 +8,6 @@ def ball_height(height, time):
         i += 1
     print('總共:' + str(total))
     print('第' + str(time) + '次:' + str(height))
-    print('第%s次:%s' % (time, height))
-    print(f'第{time}次:{height}')
 
 '''輸入初始高度和落地次數'''
 
